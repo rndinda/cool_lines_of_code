@@ -1,0 +1,1 @@
+For this repository I will be working on different simple, short projects made mostly of a few lines of code from languages i am profficient in.
